@@ -1,4 +1,4 @@
-const Baseurl = 'http://localhost:8000/api/todos';
+const Baseurl = 'https://todo-backend-wheat.vercel.app/api/todos';
 
 const API = {
   GET_TODOS: `${Baseurl}/get-todos`,
